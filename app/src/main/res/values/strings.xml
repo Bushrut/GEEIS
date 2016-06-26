@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">GEEIS</string>
+    <string name="choose_item">выберите прибор учета</string>
+    <string name="start">Старт</string>
+    <string-array name="spinner_items">
+        <item>пусто</item>
+        <item>Энергомера</item>
+        <item>Меркурий</item>
+        <item>НЕВА</item>
+    </string-array>
+    <string name="title_activity_calculation">CalculationActivity</string>
+    <string name="constant_item">Постоянная счетчика</string>
+    <string name="amount_impulse">Количество импульсов, \n оборотов диска</string>
+    <string name="amount_time">Период времени в сек.</string>
+    <string name="calculation">Расчитать</string>
 </resources>
